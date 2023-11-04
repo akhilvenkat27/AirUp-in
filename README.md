@@ -1,3 +1,3 @@
 # 34_AirUp
-Idea Title: AirUp - Empowering Startups
+Idea Title: AirUp - Empowering Startups  
 Domain: FinTech
